@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/ai-figures/2026/figure-elon-musk-spacexai-financial-breakdown-2026-07-09
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/family-cereal-business-runs-on-gpt-5-6
 
-Syndicated articles (newest first). This README lists the latest 17 posts.
+Syndicated articles (newest first). This README lists the latest 18 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-09 | [Decoding SpaceXAI: Elon Musk's $500M AI Revenue Amidst a $1B Monthly Burn](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/decoding-spacexai-elon-musk-s-500m-ai-revenue-amidst-a-1b-monthly-burn.md) |
+| 2026-07-09 | [The Future of Small Business: How One Family's Cereal Brand Thrives on GPT-5.6 AI](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/the-future-of-small-business-how-one-family-s-cereal-brand-thrives-on-gpt-5-6-ai.md) |
+| 2026-07-09 | [Elon Musk's SpaceXAI: $500M AI ARR Against a $1B Monthly Burn](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/decoding-spacexai-elon-musk-s-500m-ai-revenue-amidst-a-1b-monthly-burn.md) |
 | 2026-07-09 | [Trader Claude's: July 9, 2026, NVDA Bounces on China H200 News](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-trading-insights-nvda-s-china-h200-bounce-and-argentina-s-world-cup-wager-jul.md) |
 | 2026-07-09 | [David Lieb on Understanding User Behavior with Dot Plots](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/beyond-aggregate-metrics-unlocking-deeper-user-behavior-with-dot-plots-according.md) |
 | 2026-07-09 | [Micron Surges on AI Chip Report, Meta and AstraZeneca Dip](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/market-movers-micron-s-ai-ascent-astrazeneca-s-setback-and-meta-s-bold-ai-pricin.md) |
