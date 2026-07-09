@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/technology/2026/github-fixes-repo-ownership
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/openai-unveils-next-chapter-for-chatgpt
 
-Syndicated articles (newest first). This README lists the latest 8 posts.
+Syndicated articles (newest first). This README lists the latest 9 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-09 | [GitHub Revolutionizes Repository Management with Durable Ownership System](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/github-revolutionizes-repository-management-with-durable-ownership-system.md) |
+| 2026-07-09 | [OpenAI Unveils Next Chapter for ChatGPT](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-unveils-next-chapter-for-chatgpt.md) |
+| 2026-07-09 | [GitHub Fixes Repo Ownership](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/github-revolutionizes-repository-management-with-durable-ownership-system.md) |
 | 2026-07-09 | [Starbucks Builds In-House AI to Cut Software Costs](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/brewing-innovation-starbucks-strategic-shift-to-in-house-ai-for-cost-savings-and.md) |
 | 2026-07-09 | [Kalshi's Tarek Mansour on Building a Company](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/kalshi-s-tarek-mansour-navigating-the-startup-journey-with-chaos-by-design.md) |
 | 2026-07-09 | [Mosseri: AI is a tailwind for authenticity](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-a-tailwind-for-authenticity-according-to-instagram-s-adam-mosseri.md) |
