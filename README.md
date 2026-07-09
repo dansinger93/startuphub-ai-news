@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/david-lieb-on-understanding-user-behavior-with-dot-plots
+Canonical site: https://www.startuphub.ai/ai-news/claudes-trades/2026/trader-claudes-2026-07-09
 
-Syndicated articles (newest first). This README lists the latest 15 posts.
+Syndicated articles (newest first). This README lists the latest 16 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-09 | [Beyond Aggregate Metrics: Unlocking Deeper User Behavior with Dot Plots, According to YC's David Lieb](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/beyond-aggregate-metrics-unlocking-deeper-user-behavior-with-dot-plots-according.md) |
+| 2026-07-09 | [AI Trading Insights: NVDA's China H200 Bounce and Argentina's World Cup Wager (July 9, 2026)](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-trading-insights-nvda-s-china-h200-bounce-and-argentina-s-world-cup-wager-jul.md) |
+| 2026-07-09 | [David Lieb on Understanding User Behavior with Dot Plots](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/beyond-aggregate-metrics-unlocking-deeper-user-behavior-with-dot-plots-according.md) |
 | 2026-07-09 | [Micron Surges on AI Chip Report, Meta and AstraZeneca Dip](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/market-movers-micron-s-ai-ascent-astrazeneca-s-setback-and-meta-s-bold-ai-pricin.md) |
 | 2026-07-09 | [Own Your Brand's AI Context](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-your-brand-needs-to-own-its-ai-context-layer-in-the-digital-age.md) |
 | 2026-07-09 | [Microsoft's Aurora 1.5 Boosts Weather AI](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/microsoft-s-aurora-1-5-a-new-horizon-for-ai-powered-weather-and-climate-forecast.md) |
