@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/technology/2026/own-your-brand-s-ai-context
+Canonical site: https://www.startuphub.ai/ai-news/public-companies/2026/micron-surges-on-ai-chip-report-meta-and-astrazeneca-dip
 
-Syndicated articles (newest first). This README lists the latest 13 posts.
+Syndicated articles (newest first). This README lists the latest 14 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-09 | [Why Your Brand Needs to Own Its AI Context Layer in the Digital Age](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-your-brand-needs-to-own-its-ai-context-layer-in-the-digital-age.md) |
+| 2026-07-09 | [Market Movers: Micron's AI Ascent, AstraZeneca's Setback, and Meta's Bold AI Pricing](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/market-movers-micron-s-ai-ascent-astrazeneca-s-setback-and-meta-s-bold-ai-pricin.md) |
+| 2026-07-09 | [Own Your Brand's AI Context](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-your-brand-needs-to-own-its-ai-context-layer-in-the-digital-age.md) |
 | 2026-07-09 | [Microsoft's Aurora 1.5 Boosts Weather AI](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/microsoft-s-aurora-1-5-a-new-horizon-for-ai-powered-weather-and-climate-forecast.md) |
 | 2026-07-09 | [AI is Creating New Millionaires](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/the-ai-revolution-unlocking-unprecedented-wealth-and-business-growth.md) |
 | 2026-07-09 | [Micron, SK Hynix Expand Amid AI Boom; Meta Monetizes AI](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/the-ai-boom-micron-and-sk-hynix-drive-memory-chip-expansion-meta-monetizes-its-a.md) |
