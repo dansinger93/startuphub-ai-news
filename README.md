@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-is-creating-new-millionaires
+Canonical site: https://www.startuphub.ai/ai-news/ai-research/2026/microsoft-s-aurora-1-5-boosts-weather-ai
 
-Syndicated articles (newest first). This README lists the latest 11 posts.
+Syndicated articles (newest first). This README lists the latest 12 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-09 | [The AI Revolution: Unlocking Unprecedented Wealth and Business Growth](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/the-ai-revolution-unlocking-unprecedented-wealth-and-business-growth.md) |
+| 2026-07-09 | [Microsoft's Aurora 1.5: A New Horizon for AI-Powered Weather and Climate Forecasting](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/microsoft-s-aurora-1-5-a-new-horizon-for-ai-powered-weather-and-climate-forecast.md) |
+| 2026-07-09 | [AI is Creating New Millionaires](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/the-ai-revolution-unlocking-unprecedented-wealth-and-business-growth.md) |
 | 2026-07-09 | [Micron, SK Hynix Expand Amid AI Boom; Meta Monetizes AI](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/the-ai-boom-micron-and-sk-hynix-drive-memory-chip-expansion-meta-monetizes-its-a.md) |
 | 2026-07-09 | [OpenAI Unveils Next Chapter for ChatGPT](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-unveils-next-chapter-for-chatgpt.md) |
 | 2026-07-09 | [GitHub Fixes Repo Ownership](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/github-revolutionizes-repository-management-with-durable-ownership-system.md) |
