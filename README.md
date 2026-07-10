@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/ai-research/2026/carla-gs-unified-corner-case-synthesis
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/broccoli-farmer-leverages-gpt-5-6-for-farm-automation
 
-Syndicated articles (newest first). This README lists the latest 24 posts.
+Syndicated articles (newest first). This README lists the latest 25 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [Crafting Safer Roads: How CARLA-GS Revolutionizes Autonomous Driving Simulation](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/crafting-safer-roads-how-carla-gs-revolutionizes-autonomous-driving-simulation.md) |
+| 2026-07-10 | [Revolutionizing the Fields: How a Japanese Broccoli Farmer is Cultivating Success with GPT-5.6](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/revolutionizing-the-fields-how-a-japanese-broccoli-farmer-is-cultivating-success.md) |
+| 2026-07-10 | [CARLA-GS: Unified Corner-Case Synthesis](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/crafting-safer-roads-how-carla-gs-revolutionizes-autonomous-driving-simulation.md) |
 | 2026-07-10 | [Red-Teaming Rules for Multi-Agent AI Safety](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/unpacking-multi-agent-ai-safety-why-identity-matters-more-than-rewards.md) |
 | 2026-07-10 | [Reasoning Beyond Linear Chains](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/unlocking-advanced-ai-reasoning-how-pyligent-moves-beyond-simple-chains.md) |
 | 2026-07-10 | [GPT-5.6 Powers Microsoft 365 Copilot](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/unlocking-next-level-productivity-gpt-5-6-powers-microsoft-365-copilot.md) |
