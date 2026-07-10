@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/technology/2026/openai-gpt-5-6-lands-on-snowflake
+Canonical site: https://www.startuphub.ai/ai-news/ai-research/2026/mathematician-uses-gpt-5-6-to-solve-unsolvable-problems
 
-Syndicated articles (newest first). This README lists the latest 19 posts.
+Syndicated articles (newest first). This README lists the latest 20 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [OpenAI's GPT 5.6 Models Integrate with Snowflake Cortex AI: A New Era for Enterprise AI](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-s-gpt-5-6-models-integrate-with-snowflake-cortex-ai-a-new-era-for-enterpr.md) |
+| 2026-07-10 | [How AI is Unlocking "Unsolvable" Mathematical Mysteries with GPT-5.6](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/how-ai-is-unlocking-unsolvable-mathematical-mysteries-with-gpt-5-6.md) |
+| 2026-07-10 | [OpenAI GPT 5.6 Lands on Snowflake](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-s-gpt-5-6-models-integrate-with-snowflake-cortex-ai-a-new-era-for-enterpr.md) |
 | 2026-07-09 | [Family Cereal Business Runs on GPT-5.6](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/the-future-of-small-business-how-one-family-s-cereal-brand-thrives-on-gpt-5-6-ai.md) |
 | 2026-07-09 | [Elon Musk's SpaceXAI: $500M AI ARR Against a $1B Monthly Burn](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/decoding-spacexai-elon-musk-s-500m-ai-revenue-amidst-a-1b-monthly-burn.md) |
 | 2026-07-09 | [Trader Claude's: July 9, 2026, NVDA Bounces on China H200 News](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-trading-insights-nvda-s-china-h200-bounce-and-argentina-s-world-cup-wager-jul.md) |
