@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/openai-unveils-chatgpt-work-automating-real-world-tasks
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/meta-explores-ai-infrastructure-rentals-amidst-denza-z-launch
 
-Syndicated articles (newest first). This README lists the latest 28 posts.
+Syndicated articles (newest first). This README lists the latest 29 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [OpenAI's ChatGPT Work: Ushering In a New Era of AI-Powered Task Automation](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-s-chatgpt-work-ushering-in-a-new-era-of-ai-powered-task-automation.md) |
+| 2026-07-10 | [Meta's Bold AI Infrastructure Play and China's Luxury Supercar Debut](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/meta-s-bold-ai-infrastructure-play-and-china-s-luxury-supercar-debut.md) |
+| 2026-07-10 | [OpenAI Unveils ChatGPT Work: Automating Real-World Tasks](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-s-chatgpt-work-ushering-in-a-new-era-of-ai-powered-task-automation.md) |
 | 2026-07-10 | [Marketers Must Own AI Context](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-marketers-must-seize-control-of-their-ai-context-layer-for-true-brand-power.md) |
 | 2026-07-10 | [Uber's GitFarm Solves Monorepo Woes](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/uber-s-gitfarm-revolutionizing-monorepo-management-for-hyper-scale-development.md) |
 | 2026-07-10 | [Broccoli Farmer Leverages GPT-5.6 for Farm Automation](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/revolutionizing-the-fields-how-a-japanese-broccoli-farmer-is-cultivating-success.md) |
