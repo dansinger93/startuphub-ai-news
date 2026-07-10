@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/meta-explores-ai-infrastructure-rentals-amidst-denza-z-launch
+Canonical site: https://www.startuphub.ai/ai-news/technology/2026/octonous-streamlines-ai-safety-work
 
-Syndicated articles (newest first). This README lists the latest 29 posts.
+Syndicated articles (newest first). This README lists the latest 30 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [Meta's Bold AI Infrastructure Play and China's Luxury Supercar Debut](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/meta-s-bold-ai-infrastructure-play-and-china-s-luxury-supercar-debut.md) |
+| 2026-07-10 | [Revolutionizing AI Safety: How Octonous Empowers Engineers at Mozilla.ai](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/revolutionizing-ai-safety-how-octonous-empowers-engineers-at-mozilla-ai.md) |
+| 2026-07-10 | [Meta Explores AI Infrastructure Rentals Amidst Denza Z Launch](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/meta-s-bold-ai-infrastructure-play-and-china-s-luxury-supercar-debut.md) |
 | 2026-07-10 | [OpenAI Unveils ChatGPT Work: Automating Real-World Tasks](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-s-chatgpt-work-ushering-in-a-new-era-of-ai-powered-task-automation.md) |
 | 2026-07-10 | [Marketers Must Own AI Context](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-marketers-must-seize-control-of-their-ai-context-layer-for-true-brand-power.md) |
 | 2026-07-10 | [Uber's GitFarm Solves Monorepo Woes](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/uber-s-gitfarm-revolutionizing-monorepo-management-for-hyper-scale-development.md) |
