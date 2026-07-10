@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/markets-brace-for-ai-and-geopolitics
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-engineers-should-you-still-read-code-in-2026
 
-Syndicated articles (newest first). This README lists the latest 40 posts.
+Syndicated articles (newest first). This README lists the latest 41 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [Navigating the Dual Impact: How AI and Geopolitics Are Reshaping Global Markets](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/navigating-the-dual-impact-how-ai-and-geopolitics-are-reshaping-global-markets.md) |
+| 2026-07-10 | [AI Engineers: Will You Still Need to Read Code in 2026?](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-engineers-will-you-still-need-to-read-code-in-2026.md) |
+| 2026-07-10 | [Markets Brace for AI and Geopolitics](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/navigating-the-dual-impact-how-ai-and-geopolitics-are-reshaping-global-markets.md) |
 | 2026-07-10 | [RingCentral Scales Customer Programs with ChatGPT](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/how-ringcentral-leveraged-chatgpt-work-to-supercharge-customer-programs.md) |
 | 2026-07-10 | [AI Bust Fallout Could Dwarf Dot-Com Crash, Warns George Noble](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-bust-fallout-could-dwarf-dot-com-crash-warns-george-noble.md) |
 | 2026-07-10 | [Pelgo CEO: Government Action Crucial for AI Entrepreneurs](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-government-support-is-essential-for-the-future-of-ai-entrepreneurship-accord.md) |
