@@ -1,11 +1,12 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-bust-fallout-could-dwarf-dot-com-crash-warns-george-noble
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ringcentral-scales-customer-programs-with-chatgpt
 
-Syndicated articles (newest first). This README lists the latest 38 posts.
+Syndicated articles (newest first). This README lists the latest 39 posts.
 
 | Date | Article |
 |------|---------|
+| 2026-07-10 | [How RingCentral Leveraged ChatGPT Work to Supercharge Customer Programs](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/how-ringcentral-leveraged-chatgpt-work-to-supercharge-customer-programs.md) |
 | 2026-07-10 | [AI Bust Fallout Could Dwarf Dot-Com Crash, Warns George Noble](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-bust-fallout-could-dwarf-dot-com-crash-warns-george-noble.md) |
 | 2026-07-10 | [Pelgo CEO: Government Action Crucial for AI Entrepreneurs](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-government-support-is-essential-for-the-future-of-ai-entrepreneurship-accord.md) |
 | 2026-07-10 | [AI Super PACs Fuel Political Spending Ahead of Midterms](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-super-pacs-fuel-political-spending-ahead-of-midterms.md) |
