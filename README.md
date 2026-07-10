@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/tech/2026/uber-s-gitfarm-solves-monorepo-woes
+Canonical site: https://www.startuphub.ai/ai-news/technology/2026/marketers-must-own-ai-context
 
-Syndicated articles (newest first). This README lists the latest 26 posts.
+Syndicated articles (newest first). This README lists the latest 27 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [Uber's GitFarm: Revolutionizing Monorepo Management for Hyper-Scale Development](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/uber-s-gitfarm-revolutionizing-monorepo-management-for-hyper-scale-development.md) |
+| 2026-07-10 | [Why Marketers Must Seize Control of Their AI Context Layer for True Brand Power](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-marketers-must-seize-control-of-their-ai-context-layer-for-true-brand-power.md) |
+| 2026-07-10 | [Uber's GitFarm Solves Monorepo Woes](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/uber-s-gitfarm-revolutionizing-monorepo-management-for-hyper-scale-development.md) |
 | 2026-07-10 | [Broccoli Farmer Leverages GPT-5.6 for Farm Automation](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/revolutionizing-the-fields-how-a-japanese-broccoli-farmer-is-cultivating-success.md) |
 | 2026-07-10 | [CARLA-GS: Unified Corner-Case Synthesis](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/crafting-safer-roads-how-carla-gs-revolutionizes-autonomous-driving-simulation.md) |
 | 2026-07-10 | [Red-Teaming Rules for Multi-Agent AI Safety](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/unpacking-multi-agent-ai-safety-why-identity-matters-more-than-rewards.md) |
