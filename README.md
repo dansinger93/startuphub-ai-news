@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/zuckerberg-on-meta-s-ai-push-pricing-and-talent
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-super-pacs-fuel-political-spending-ahead-of-midterms
 
-Syndicated articles (newest first). This README lists the latest 35 posts.
+Syndicated articles (newest first). This README lists the latest 36 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [Meta's Bold AI Play: Zuckerberg Unpacks New Paid Tiers, Pricing Strategy, and the Talent War](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/meta-s-bold-ai-play-zuckerberg-unpacks-new-paid-tiers-pricing-strategy-and-the-t.md) |
+| 2026-07-10 | [AI Super PACs Fuel Political Spending Ahead of Midterms](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-super-pacs-fuel-political-spending-ahead-of-midterms.md) |
+| 2026-07-10 | [Zuckerberg on Meta's AI Push: Pricing and Talent](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/meta-s-bold-ai-play-zuckerberg-unpacks-new-paid-tiers-pricing-strategy-and-the-t.md) |
 | 2026-07-10 | [Deutsche Telekom Taps AI to Enhance Customer Service](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/deutsche-telekom-revolutionizes-customer-service-with-advanced-ai-integration.md) |
 | 2026-07-10 | [Deutsche Telekom: AI Native Telco](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/deutsche-telekom-s-ambitious-vision-becoming-an-ai-native-telecommunications-lea.md) |
 | 2026-07-10 | [Zapier Uses ChatGPT to Generate Seven Figures in Pipeline](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/zapier-s-ai-breakthrough-how-chatgpt-work-generated-seven-figures-in-sales-pipel.md) |
