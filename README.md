@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/ai-research/2026/mathematician-uses-gpt-5-6-to-solve-unsolvable-problems
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/gpt-5-6-powers-microsoft-365-copilot
 
-Syndicated articles (newest first). This README lists the latest 20 posts.
+Syndicated articles (newest first). This README lists the latest 21 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [How AI is Unlocking "Unsolvable" Mathematical Mysteries with GPT-5.6](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/how-ai-is-unlocking-unsolvable-mathematical-mysteries-with-gpt-5-6.md) |
+| 2026-07-10 | [Unlocking Next-Level Productivity: GPT-5.6 Powers Microsoft 365 Copilot](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/unlocking-next-level-productivity-gpt-5-6-powers-microsoft-365-copilot.md) |
+| 2026-07-10 | [Mathematician Uses GPT-5.6 to Solve Unsolvable Problems](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/how-ai-is-unlocking-unsolvable-mathematical-mysteries-with-gpt-5-6.md) |
 | 2026-07-10 | [OpenAI GPT 5.6 Lands on Snowflake](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-s-gpt-5-6-models-integrate-with-snowflake-cortex-ai-a-new-era-for-enterpr.md) |
 | 2026-07-09 | [Family Cereal Business Runs on GPT-5.6](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/the-future-of-small-business-how-one-family-s-cereal-brand-thrives-on-gpt-5-6-ai.md) |
 | 2026-07-09 | [Elon Musk's SpaceXAI: $500M AI ARR Against a $1B Monthly Burn](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/decoding-spacexai-elon-musk-s-500m-ai-revenue-amidst-a-1b-monthly-burn.md) |
