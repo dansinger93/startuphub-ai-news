@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/nvidia-scales-gtm-with-chatgpt-work
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/zapier-uses-chatgpt-to-generate-seven-figures-in-pipeline
 
-Syndicated articles (newest first). This README lists the latest 31 posts.
+Syndicated articles (newest first). This README lists the latest 32 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [Nvidia's AI Advantage: Revolutionizing Go-To-Market with ChatGPT Work](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/nvidia-s-ai-advantage-revolutionizing-go-to-market-with-chatgpt-work.md) |
+| 2026-07-10 | [Zapier's AI Breakthrough: How ChatGPT Work Generated Seven Figures in Sales Pipeline](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/zapier-s-ai-breakthrough-how-chatgpt-work-generated-seven-figures-in-sales-pipel.md) |
+| 2026-07-10 | [Nvidia Scales GTM with ChatGPT Work](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/nvidia-s-ai-advantage-revolutionizing-go-to-market-with-chatgpt-work.md) |
 | 2026-07-10 | [Octonous Streamlines AI Safety Work](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/revolutionizing-ai-safety-how-octonous-empowers-engineers-at-mozilla-ai.md) |
 | 2026-07-10 | [Meta Explores AI Infrastructure Rentals Amidst Denza Z Launch](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/meta-s-bold-ai-infrastructure-play-and-china-s-luxury-supercar-debut.md) |
 | 2026-07-10 | [OpenAI Unveils ChatGPT Work: Automating Real-World Tasks](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/openai-s-chatgpt-work-ushering-in-a-new-era-of-ai-powered-task-automation.md) |
