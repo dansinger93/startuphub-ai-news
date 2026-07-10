@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/pelgo-ceo-government-action-crucial-for-ai-entrepreneurs
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-bust-fallout-could-dwarf-dot-com-crash-warns-george-noble
 
-Syndicated articles (newest first). This README lists the latest 37 posts.
+Syndicated articles (newest first). This README lists the latest 38 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [Why Government Support is Essential for the Future of AI Entrepreneurship, According to Pelgo CEO Chieh Huang](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-government-support-is-essential-for-the-future-of-ai-entrepreneurship-accord.md) |
+| 2026-07-10 | [AI Bust Fallout Could Dwarf Dot-Com Crash, Warns George Noble](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-bust-fallout-could-dwarf-dot-com-crash-warns-george-noble.md) |
+| 2026-07-10 | [Pelgo CEO: Government Action Crucial for AI Entrepreneurs](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/why-government-support-is-essential-for-the-future-of-ai-entrepreneurship-accord.md) |
 | 2026-07-10 | [AI Super PACs Fuel Political Spending Ahead of Midterms](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-super-pacs-fuel-political-spending-ahead-of-midterms.md) |
 | 2026-07-10 | [Zuckerberg on Meta's AI Push: Pricing and Talent](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/meta-s-bold-ai-play-zuckerberg-unpacks-new-paid-tiers-pricing-strategy-and-the-t.md) |
 | 2026-07-10 | [Deutsche Telekom Taps AI to Enhance Customer Service](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/deutsche-telekom-revolutionizes-customer-service-with-advanced-ai-integration.md) |
