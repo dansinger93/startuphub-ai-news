@@ -1,12 +1,13 @@
 # dansinger93/startuphub-ai-news
 
-Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/stampli-uses-chatgpt-work-to-scale-product-marketing
+Canonical site: https://www.startuphub.ai/ai-news/artificial-intelligence/2026/chatgpt-computer-use-now-faster-with-live-picture-in-picture
 
-Syndicated articles (newest first). This README lists the latest 42 posts.
+Syndicated articles (newest first). This README lists the latest 43 posts.
 
 | Date | Article |
 |------|---------|
-| 2026-07-10 | [Stampli Revolutionizes Product Marketing with ChatGPT Work: A Deep Dive into AI-Powered Efficiency](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/stampli-revolutionizes-product-marketing-with-chatgpt-work-a-deep-dive-into-ai-p.md) |
+| 2026-07-10 | [ChatGPT's Computer Use Skill Gets a Major Boost: Faster Interactions with Live Picture-in-Picture](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/chatgpt-s-computer-use-skill-gets-a-major-boost-faster-interactions-with-live-pi.md) |
+| 2026-07-10 | [Stampli Uses ChatGPT Work to Scale Product Marketing](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/stampli-revolutionizes-product-marketing-with-chatgpt-work-a-deep-dive-into-ai-p.md) |
 | 2026-07-10 | [AI Engineers: Should You Still Read Code in 2026?](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/ai-engineers-will-you-still-need-to-read-code-in-2026.md) |
 | 2026-07-10 | [Markets Brace for AI and Geopolitics](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/navigating-the-dual-impact-how-ai-and-geopolitics-are-reshaping-global-markets.md) |
 | 2026-07-10 | [RingCentral Scales Customer Programs with ChatGPT](https://github.com/dansinger93/startuphub-ai-news/blob/main/content/posts/how-ringcentral-leveraged-chatgpt-work-to-supercharge-customer-programs.md) |
